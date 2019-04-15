@@ -44,7 +44,7 @@
     
 	输出：
 	int: 4
-	char: 2
+	char: 2 
 	double: 3.124
 	string: asx
 
